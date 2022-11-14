@@ -20,6 +20,12 @@
             <p>Django</p>
         </div>
     </div>
+    <div>
+        <div>
+            <img src="https://www.django-rest-framework.org/img/logo.png"/>
+            <p>Rest Framework</p>
+        </div>
+    </div>
     <p>Django</p>
     <p>Rest Framework</p>
     <p>ReactJS</p>

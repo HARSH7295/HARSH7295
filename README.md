@@ -13,7 +13,7 @@
 
 ## 🚀 Languages , Frameworks and Tools:
 
-<div align="left">
+<div align="left" display="flex" >
     <div>
         <div>
             <img src="https://img.icons8.com/color/96/null/django.png"/>

@@ -16,7 +16,7 @@
 <div align="left">
     <div>
         <div>
-            <img src="https://img.icons8.com/color/48/null/django.png"/>
+            <img src="https://img.icons8.com/color/96/null/django.png"/>
             <p>Django</p>
         </div>
     </div>

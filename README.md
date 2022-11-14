@@ -13,7 +13,13 @@
 
 ## 🚀 Languages , Frameworks and Tools:
 
-<div align="left"> 
+<div align="left">
+    <div>
+        <div>
+            <img src="https://img.icons8.com/material-outlined/24/null/django.png"/>
+            <p>Django</p>
+        </div>
+    </div>
     <p>Django</p>
     <p>Rest Framework</p>
     <p>ReactJS</p>

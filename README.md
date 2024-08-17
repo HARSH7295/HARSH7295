@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full-Stack Developer with 1.5+ years of experience in the IT industry.<br> I have a strong foundation in both front-end and back-end development, with experience in a wide range of technologies including Node.js, Express.js, NestJS, React.js, Next.js, Remix.js, Python, Django, and Shopify app development.<br> I am also passionate about Machine Learning and have experience developing ML solutions.
+I am a Full-Stack Developer with 3+ years of experience in the IT industry.<br> I have a strong foundation in both front-end and back-end development, with experience in a wide range of technologies including Node.js, Express.js, NestJS, React.js, Next.js, Remix.js, Python, Django, and Shopify app development.<br> I am also passionate about Machine Learning and have experience developing ML solutions.
 
 # 💻 Tools and Tech Stack:
 
